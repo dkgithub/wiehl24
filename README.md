@@ -10,4 +10,4 @@ PyTorch Tutorials
 
 The main part:
 * Intro: **PyTorch_jet_flavor_classification.ipynb**
-* Extention: **Continue_PyTorch_jet_flavor_classification.ipynb**
+* Extension: **Continue_PyTorch_jet_flavor_classification.ipynb**
