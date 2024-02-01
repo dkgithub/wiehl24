@@ -8,5 +8,6 @@ PyTorch Tutorials
 * If you not familiar with torch, start here: **torch_tensor_tutorial_basics.ipynb**
 * (extra on GPU vs CPU speed: torch_tensor_tutorial_timing.ipynb)
 
-The main psrt:
-* **PyTorch_jet_flavor_classification.ipynb**
+The main part:
+* Intro: **PyTorch_jet_flavor_classification.ipynb**
+* Extention: **Continue_PyTorch_jet_flavor_classification.ipynb**
